@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Karla (@karla1990cav)
-- 👀 I’m interested in games and movies
-- 🌱 I’m currently learning Java and JavaScript programmin
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Karla!;+Nice+to+meet+you;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karla1990cav&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
